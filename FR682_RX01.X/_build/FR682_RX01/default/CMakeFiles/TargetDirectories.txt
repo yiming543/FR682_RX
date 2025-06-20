@@ -1,0 +1,4 @@
+C:/yiming/work/FR682_RX01.X/_build/FR682_RX01/default/CMakeFiles/FR682_RX01_default_default_XC8_compile.dir
+C:/yiming/work/FR682_RX01.X/_build/FR682_RX01/default/CMakeFiles/default.elf.dir
+C:/yiming/work/FR682_RX01.X/_build/FR682_RX01/default/CMakeFiles/edit_cache.dir
+C:/yiming/work/FR682_RX01.X/_build/FR682_RX01/default/CMakeFiles/rebuild_cache.dir
